@@ -1,4 +1,6 @@
-ttributes:
+#!/usr/bin/python3
+"""
+Attributes:
     board (list): A list of lists representing the chessboard.
     solutions (list): A list of lists containing solutions.
 

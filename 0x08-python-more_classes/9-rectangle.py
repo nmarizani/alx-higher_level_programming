@@ -1,4 +1,5 @@
-lculates and return the area of the rectangle
+#!/usr/bin/python3i
+"""Calculates and return the area of the rectangle
 """
 
 '''
